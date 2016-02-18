@@ -1,5 +1,5 @@
 {
-    "name": "itbz/fpdi",
+    "name": "acbl-web/fpdi",
     "description": "Unofficial PSR-4 compliant version of the FPDI library",
     "type": "library",
     "license": "Apache-2.0",
